@@ -1,0 +1,32 @@
+#searchGiphy{
+    height: 44px;
+    width: 80%;
+    background-color: darkseagreen;
+    border: rgb(158, 243, 158) 2px;
+    color: white;
+    font-size: 16px;
+}
+#btn{
+    margin-top: 10px;
+    height: 45px;
+    width: 17%;
+    background-color: darkseagreen;
+    color: white;
+    border: rgb(158, 243, 158) 2px;
+    font-size: 16px;
+    
+    
+}
+
+
+body{
+    background-color: rgb(241, 247, 208);
+    height: 100vh;
+}
+
+#output{
+    margin-top: 20px;
+    margin-left: 10px;
+    border: gold;
+}
+
